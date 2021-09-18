@@ -5,7 +5,9 @@ int function(int b)
   ab = 19;
  return ab;
 }
-void omg2Changes()
+void NEW_BRANCH()
 {
 printf("CHANGED");
 }
+
+int main(){}
