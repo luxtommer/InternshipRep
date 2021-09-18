@@ -1,15 +1,2 @@
-#include <iostream>
-
-int function(int b)
-{
-  ab = 19;
- return ab;
-}
-void NEW_BRANCH()
-{
-printf("CHANGED");
-}
-
-int main(){}
-new change
-another change
+Hello word
+Hi Band!
