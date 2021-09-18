@@ -1,2 +1,1 @@
-new change
-\n new merge text
+text text :)
