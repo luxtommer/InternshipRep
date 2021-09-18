@@ -1,7 +1,7 @@
 #include <iostream>
 
-int function(int a)
+int function(int b)
 {
-  a = 10;
- return a;
+  b = 10;
+ return b;
 }
