@@ -5,7 +5,7 @@ int function(int b)
   ab = 19;
  return ab;
 }
-void omg2()
+void omg2Changes()
 {
-printf("omg2");
+printf("CHANGED");
 }
