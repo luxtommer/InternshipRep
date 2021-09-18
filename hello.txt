@@ -2,6 +2,10 @@
 
 int function(int b)
 {
-  b = 10;
- return b;
+  ab = 19;
+ return ab;
+}
+void omg()
+{
+printf("omg");
 }
