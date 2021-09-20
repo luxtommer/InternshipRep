@@ -8,7 +8,7 @@ private:
     string coffe = "Coffe brrrr!";
     /* data */
 
-    string GG;
+    
 
     string EspressoName;
 
@@ -29,7 +29,7 @@ void DoSomething(){}
 GetEspresso::GetEspresso(/* args */)
 {
     
-	GG = "default";
+	
 
 
 
