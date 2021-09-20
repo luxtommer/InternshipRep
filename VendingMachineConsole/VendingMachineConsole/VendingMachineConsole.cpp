@@ -18,7 +18,8 @@ string GetDefault()
 }
 string GetFromInternet()
 {
-    return "Internet info";
+    return "Internet shit info";
+
 }
 
 void ShowInfo(string(*foo)())
