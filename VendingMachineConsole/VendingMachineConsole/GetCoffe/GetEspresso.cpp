@@ -21,7 +21,8 @@ public:
 
 void setCoffe(){
 
-	EspressoName = "kurwa";
+	EspressoName = "new name";
+    
 }
     void getCoffe(){
         cout << coffe<<" "<<EspressoName << endl;
