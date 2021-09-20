@@ -18,5 +18,5 @@ GetEspresso::GetEspresso(/* args */)
 
 GetEspresso::~GetEspresso()
 {
-	delete EspressoName;
+	
 }
