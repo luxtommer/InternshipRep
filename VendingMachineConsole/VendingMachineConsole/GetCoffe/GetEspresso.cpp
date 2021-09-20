@@ -5,6 +5,7 @@ class GetEspresso
 {
 private:
     /* data */
+	string EspressoName;
 public:
     GetEspresso(/* args */);
     ~GetEspresso();
@@ -12,8 +13,10 @@ public:
 
 GetEspresso::GetEspresso(/* args */)
 {
+	EspressoName = "default";
 }
 
 GetEspresso::~GetEspresso()
 {
+	delete EspressoName;
 }
