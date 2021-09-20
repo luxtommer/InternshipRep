@@ -8,6 +8,7 @@ private:
     string coffe = "Coffe brrrr!";
     /* data */
     string GG;
+    string EspressoName;
 public:
     GetEspresso(/* args */);
     ~GetEspresso();
@@ -20,11 +21,15 @@ public:
 GetEspresso::GetEspresso(/* args */)
 {
 	GG = "default";
+
+
+
+
 }
 
 GetEspresso::~GetEspresso()
 {
-	
+	EspressoName = " ";
 }
 
 int main(/* argc, argv */){
@@ -32,4 +37,6 @@ int main(/* argc, argv */){
     GetEspresso g;
     
     g.getCoffe();
+
+    return 0;
 }
