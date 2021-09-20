@@ -17,8 +17,12 @@ public:
     GetEspresso(/* args */);
 
     ~GetEspresso();
+	
 
+void setCoffe(){
 
+	EspressoName = "kurwa";
+}
     void getCoffe(){
         cout << coffe<<" "<<EspressoName << endl;
     }
