@@ -13,7 +13,7 @@ public:
     ~GetEspresso();
 
     void getCoffe(){
-        cout << coffe << endl;
+        cout << coffe<<" "<<EspressoName << endl;
     }
 };
 
@@ -25,4 +25,11 @@ GetEspresso::GetEspresso(/* args */)
 GetEspresso::~GetEspresso()
 {
 	
+}
+
+int main(/* argc, argv */){
+
+    GetEspresso g;
+    
+    g.getCoffe();
 }
