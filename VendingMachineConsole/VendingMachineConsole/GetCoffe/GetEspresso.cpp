@@ -7,7 +7,7 @@ class GetEspresso
 private:
     string coffe = "Coffe brrrr!";
     /* data */
-	string EspressoName;
+    string GG;
 public:
     GetEspresso(/* args */);
     ~GetEspresso();
@@ -19,7 +19,7 @@ public:
 
 GetEspresso::GetEspresso(/* args */)
 {
-	EspressoName = "default";
+	GG = "default";
 }
 
 GetEspresso::~GetEspresso()
