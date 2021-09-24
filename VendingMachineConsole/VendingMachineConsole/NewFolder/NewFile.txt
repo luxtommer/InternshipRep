@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-Hellow! My name is R    o   Myi k.
-=======
->>>>>>> 0983ad689fe71cb6a80d20e9ff819674cee63689
+
 Hellow!     
 My 
 name
  is
-<<<<<<< HEAD
-  Roma!
-=======
-  Roma!
->>>>>>> 0983ad689fe71cb6a80d20e9ff819674cee63689
+
